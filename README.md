@@ -1,2 +1,2 @@
 # Myssh-c-
-Proiectul lucrat la Retele pentru Calculatoare
+My project for Computer Networks. Worked during my second year, fist semester (2024-2025)
